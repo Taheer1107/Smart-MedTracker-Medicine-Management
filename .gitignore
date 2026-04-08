@@ -1,0 +1,6 @@
+target/
+*.class
+*.jar
+*.log
+.env
+node_modules/
